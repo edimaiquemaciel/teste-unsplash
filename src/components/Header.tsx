@@ -14,7 +14,7 @@ export function Header() {
         <header className="w-full py-4 px-6 md:px-12 flex flex-col items-center gap-2 bg-[#FFFFFF] fixed top-0 left-0 z-50 shadow-md min-[768px]:gap-4">
             <div className="w-full flex flex-col justify-between items-center min-[1440px]:flex-row min-[768px]:flex-col min-[1280px]:flex-row">
                 <NextImage
-                    src="/instasplash3.PNG"
+                    src="/instasplash.png"
                     alt="instasplash logo"
                     width={150}
                     height={50}
